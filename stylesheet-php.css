@@ -1,0 +1,14 @@
+body {
+    background-image:url('<?php echo $url ?>');
+	background-size: cover;
+	background-repeat: no-repeat;
+
+}
+@font-face {
+	font-family: clock;
+	src : url(digital-7.ttf);
+}
+
+#text {
+	text-align: center;
+}
